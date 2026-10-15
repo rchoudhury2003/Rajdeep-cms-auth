@@ -1,0 +1,5 @@
+{
+  "name": "rajdeep-cms-auth",
+  "main": "oauth-worker.js",
+  "compatibility_date": "2026-10-12"
+}
